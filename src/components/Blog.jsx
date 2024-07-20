@@ -11,6 +11,7 @@ import mainPosts from '../data/mainPosts.json'
 import Header from './header'
 
 export default function Blog() {
+  
   return (
     <React.Fragment>
       <Header/>

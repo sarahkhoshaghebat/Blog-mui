@@ -9,7 +9,7 @@ import {
 import Container from "@mui/material/Container";
 import React from "react";
 import { Link } from "react-router-dom";
-
+import imageCover from '../images/leaf.jpg';
 export default function Hero() {
   return (
     <Container maxWidth="lg" sx={{ marginBottom: '32px' }}>
@@ -19,7 +19,7 @@ export default function Hero() {
         position: "relative",
         mb: 4,
         backgroundSize: 'cover',
-        backgroundImage: 'url(https://source.unsplash.com/random?wallpapers)',
+        backgroundImage: `url(${imageCover})`,
         backgroundPosition: 'center',
       }}>
         <Box
