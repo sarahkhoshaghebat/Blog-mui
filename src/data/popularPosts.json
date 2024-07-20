@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "Featured post",
+        "date": "Nov 12",
+        "summary": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "content":"",
+        "imageUrl": "https://source.unsplash.com/random?wallpapers"
+        
+    },
+    {
+        "id" : 2,
+        "title": "Post title",
+        "date": "Nov 11",
+        "summary": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "content":"",
+        "imageUrl": "https://source.unsplash.com/random?wallpapers"
+        
+    },
+    {
+        "id" : 3,
+        "title": "Title 2",
+        "date": "2024-02-01",
+        "summary": "document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "content":"",
+        "imageUrl": "https://source.unsplash.com/random?wallpapers"
+        
+    },
+    {
+        "id" : 4,
+        "title": "Title 2",
+        "date": "2024-02-01",
+        "summary": "document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "content":"",
+        "imageUrl": "https://source.unsplash.com/random?wallpapers"
+        
+    },
+    {
+        "id" : 5,
+        "title": "Title 2",
+        "date": "2024-02-01",
+        "summary": "document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available",
+        "content":"",
+        "imageUrl": "https://source.unsplash.com/random?wallpapers"
+        
+    }
+    
+]
